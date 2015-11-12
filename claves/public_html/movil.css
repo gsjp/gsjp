@@ -1,0 +1,15 @@
+h1, form {
+	font-size: 50px;
+}
+body {
+	background-image: url('resources/images/bg5.jpg');
+	color: white;
+	text-align: center;
+	font-family: verdana, arial, lucida;
+	width: 480px;
+}
+
+.ui_entrada
+{
+	width: 480px;
+}

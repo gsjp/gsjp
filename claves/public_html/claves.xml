@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<claves>
+  <clave id="1">
+    <nombre>Murciélago</nombre>
+    <origen>murcielago</origen>
+    <destino>0123456789</destino>
+  </clave>
+  <clave id="2">
+    <nombre>Baden Powell</nombre>
+    <origen>baden</origen>
+    <destino>powel</destino>
+  </clave>
+  <clave id="3">
+    <nombre>Carlina Betfuse</nombre>
+    <origen>carlina</origen>
+    <destino>betfuse</destino>
+  </clave>
+  <clave id="4">
+    <nombre>PaReLiNoFu</nombre>
+    <origen>prlnf</origen>
+    <destino>aeiou</destino>
+  </clave>
+  <clave id="5">
+    <nombre>DaMeTuPiCo</nombre>
+    <origen>dmtpc</origen>
+    <destino>aeuio</destino>
+  </clave>
+  <clave id="6">
+    <nombre>Cenit Polar</nombre>
+    <origen>cenit</origen>
+    <destino>polar</destino>
+  </clave>
+  <clave id="7">
+    <nombre>Neumático</nombre>
+    <origen>neumatico</origen>
+    <destino>123456789</destino>
+  </clave>
+  <clave id="8">
+    <nombre>Agujerito</nombre>
+    <origen>agujerito</origen>
+    <destino>123456789</destino>
+  </clave>
+  <clave id="9">
+    <nombre>Abecedario Invertido</nombre>
+    <origen>abcdefghijklmnñopqrstuvwxyz</origen>
+    <destino>zyxwvutsrqpoñnmlkjihgfedcba</destino>
+  </clave>
+  <clave id="10">
+    <nombre>Hipotenusa</nombre>
+    <origen>hipotenusa</origen>
+    <destino>0123456789</destino>
+  </clave>
+</claves>

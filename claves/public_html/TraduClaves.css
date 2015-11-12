@@ -1,0 +1,26 @@
+@media only screen and (min-device-width: 481px) {
+
+	body {
+		background-image: url('resources/images/bg5.jpg');
+		color: white;
+		text-align: center;
+		font-size: 100%;
+		font-family: Verdana, Geneva, sans-serif;
+	}
+	.ui_txtarea_in { width: 50%; height: 15em; }
+	.ui_txtarea_out { width: 50%; height: 15em; }
+
+}
+@media only screen and (max-device-width: 480px) {
+	h1 {
+		font-size: 140%;
+	}
+	body {
+		background-image: url('resources/images/bg5.jpg');
+		color: white;
+		/*text-align: center;*/
+		font-family: Verdana, Geneva, sans-serif;
+	}	
+	.ui_txtarea_in { width: 80%; height: 4em; }
+	.ui_txtarea_out { width: 80%; height: 4em; }
+}
